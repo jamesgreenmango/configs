@@ -1,0 +1,6 @@
+{
+    "API_URL" : "https://master.wsktnus.com/",
+    "USER_TOKEN": "user_token",
+    "SOCKET_URL" : "wss://master.wsktnus.com/",
+    "IPMaster2" : "wss://master.wsktnus.com/"
+}
