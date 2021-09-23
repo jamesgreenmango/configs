@@ -1,5 +1,5 @@
 {
   "USER_TOKEN": "user_token",
-  "IPMaster2": "wss://bc-master.xeuigogo.com/",
-  "API_URL": "https://bc-master.xeuigogo.com/"
+  "IPMaster2": "wss://master.xeuigogo.me/",
+  "API_URL": "https://master.xeuigogo.me/"
 }
