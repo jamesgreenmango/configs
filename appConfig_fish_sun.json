@@ -3,5 +3,6 @@
     "USER_TOKEN": "user_token",
     "SOCKET_URL" : "wss://master.wsktnus.me/",
     "IPMaster2" : "wss://master.wsktnus.me/",
-    "IPMaster88": "wss://master.wsktnus.me/"
+    "IPMaster88": "wss://master.wsktnus.me/",
+    "IS_PRODUCTION": true
 }
