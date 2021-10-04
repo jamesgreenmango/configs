@@ -1,1 +1,22 @@
-ewogICAgInJlc0RvbWFpbiI6ICJodHRwczovL3Jlc291cmNlcy54d2luLmluZm8vbHVja3lfZ2FtZXMiLAogICAgImdhbWVzIjogCiAgICBbCiAgICAgICAgewogICAgICAgICAgICAiZ2FtZUlEIjogMjAwLAogICAgICAgICAgICAiaXNMYW5kc2NhcGUiOiBmYWxzZSwKICAgICAgICAgICAgImdhbWVOYW1lIjogImNvdXAiLAogICAgICAgICAgICAicG9zaXRpb24iOiAwLAogICAgICAgICAgICAidHlwZSI6IDEsCiAgICAgICAgICAgICJnYW1lRGlzcGxheU5hbWUiOiAiQ+G7nSDDmnAiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICJnYW1lSUQiOiAyMDEsCiAgICAgICAgICAgICJpc0xhbmRzY2FwZSI6IHRydWUsCiAgICAgICAgICAgICJnYW1lTmFtZSI6ICJ0YWlwaHUiLAogICAgICAgICAgICAicG9zaXRpb24iOiAxLAogICAgICAgICAgICAidHlwZSI6IDEsCiAgICAgICAgICAgICJnYW1lRGlzcGxheU5hbWUiOiAiVMOgaSBQaMO6IgogICAgICAgIH0KICAgIF0KfQ==
+{
+    "resDomain": "https://resources.xwin.info/lucky_games",
+    "games": 
+    [
+        {
+            "gameID": 200,
+            "isLandscape": false,
+            "gameName": "coup",
+            "position": 0,
+            "type": 1,
+            "gameDisplayName": "Cờ Úp"
+        },
+        {
+            "gameID": 201,
+            "isLandscape": true,
+            "gameName": "taiphu",
+            "position": 1,
+            "type": 1,
+            "gameDisplayName": "Tài Phú"
+        }
+    ]
+}
