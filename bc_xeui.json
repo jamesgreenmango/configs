@@ -1,0 +1,6 @@
+{
+    "API_URL": "https://api.xeui.io",
+    "WS_URL": "wss://websocket.xeui.io/websocket2",
+    "REFRESH_TOKEN_URL": "https://api.xeui.io/id?command=refreshToken&refreshToken=",
+    "SA_DOMAIN_URL":"https://api.xeui.io/sa"
+}
