@@ -4,5 +4,6 @@
     "SOCKET_URL" : "wss://master.wsktnus.me/",
     "IPMaster2" : "wss://master.wsktnus.me/",
     "IPMaster88": "wss://master.wsktnus.me/",
+    "FISH_CLIENT_TYPE": 2,
     "IS_PRODUCTION": true
 }
