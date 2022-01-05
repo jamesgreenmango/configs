@@ -1,5 +1,6 @@
 {
   "USER_TOKEN": "user_token",
   "IPMaster2": "wss://master.xeuigogo.me/",
-  "API_URL": "https://master.xeuigogo.me/"
+  "API_URL": "https://master.xeuigogo.me/",
+  "FISH_CLIENT_TYPE": 2
 }
