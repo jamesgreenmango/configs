@@ -2,5 +2,6 @@
   "USER_TOKEN": "user_token",
   "IPMaster2": "wss://bc-master.xeuigogo.com/",
   "API_URL": "https://bc-master.xeuigogo.com/",
-  "FISH_CLIENT_TYPE": 2
+  "FISH_CLIENT_TYPE": 2,
+  "IS_PRODUCTION": true
 }
