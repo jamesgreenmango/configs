@@ -11,5 +11,7 @@
     "USER_TOKEN": "user_token",
     "LOGIN_USE_TOKEN": true,
     "IS_PRODUCTION": true,
-    "IS_DECODE": true
+    "IS_DECODE": true,
+    "FISH_CLIENT_TYPE": 2
+
 }
