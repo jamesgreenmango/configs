@@ -1,5 +1,5 @@
 {
-    "api_domain": "https://api.xeui.io/",
+    "api_domain": "https://api.xwin.info/",
     "sport_domain": "https://sport.xwin.info/",
     "ws_sport_domain": "wss://wssport.xwin.info/websocket",
     "tx_livestream_domain": "https://gs.gameland.vip/api-livecasino-go/api/v1/",
