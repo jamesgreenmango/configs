@@ -1,8 +1,1 @@
-{
-    "api_domain": "https://api.swinshop.net/",
-    "sport_domain": "https://sport.swinshop.net/",
-    "ws_sport_domain": "wss://wssport.swinshop.net/websocket",
-    "tx_livestream_domain": "https://api-csn-sun.gameland.vip/api/v1/",
-    "tx_livestream_video_url": "https://resources.xwin.info/sun-staging/livestream/taixiulive.html",
-    "tx_livestream_ws_url": "wss://ws-csn-sun.gameland.vip"
-}
+ewogICAgImFwaV9kb21haW4iOiAiaHR0cHM6Ly9hcGkuc3dpbnNob3AubmV0LyIsCiAgICAic3BvcnRfZG9tYWluIjogImh0dHBzOi8vc3BvcnQuc3dpbnNob3AubmV0LyIsCiAgICAid3Nfc3BvcnRfZG9tYWluIjogIndzczovL3dzc3BvcnQuc3dpbnNob3AubmV0L3dlYnNvY2tldCIsCiAgICAidHhfbGl2ZXN0cmVhbV9kb21haW4iOiAiaHR0cHM6Ly9hcGktY3NuLXN1bi5nYW1lbGFuZC52aXAvYXBpL3YxLyIsCiAgICAidHhfbGl2ZXN0cmVhbV92aWRlb191cmwiOiAiaHR0cHM6Ly9yZXNvdXJjZXMueHdpbi5pbmZvL3N1bi1zdGFnaW5nL2xpdmVzdHJlYW0vdGFpeGl1bGl2ZS5odG1sIiwKICAgICJ0eF9saXZlc3RyZWFtX3dzX3VybCI6ICJ3c3M6Ly93cy1jc24tc3VuLmdhbWVsYW5kLnZpcCIKfQ==
