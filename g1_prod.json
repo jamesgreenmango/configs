@@ -1,0 +1,5 @@
+{
+    "API_URL": "https://api.swinshop.net",
+    "MAIN_WS_URL": "wss://websocket.swinshop.net/websocket2",
+    "SA_DOMAIN_URL":"https://api.swinshop.net/sa"
+}
