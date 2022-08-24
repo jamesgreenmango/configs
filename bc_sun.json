@@ -1,6 +1,6 @@
 {
-    "API_URL": "https://api.swinshop.net",
-    "WS_URL": "wss://websocket.swinshop.net/websocket3",
-    "REFRESH_TOKEN_URL": "https://api.swinshop.net/id?command=refreshToken&refreshToken=",
-    "SA_DOMAIN_URL":"https://api.swinshop.net/sa"
+    "API_URL": "https://api.swincc.io",
+    "WS_URL": "wss://websocket.swincc.io/websocket3",
+    "REFRESH_TOKEN_URL": "https://api.swincc.io/id?command=refreshToken&refreshToken=",
+    "SA_DOMAIN_URL":"https://api.swincc.io/sa"
 }
