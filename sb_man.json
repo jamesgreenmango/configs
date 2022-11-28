@@ -1,0 +1,3 @@
+{
+    "GET_TOKEN_URL": "https://sport.mangcc.io?command=get-token"
+}
