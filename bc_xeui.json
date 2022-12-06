@@ -1,6 +1,6 @@
 {
-    "API_URL": "https://api.xeuidd.io",
-    "WS_URL": "wss://websocket.xeuidd.iowebsocket2",
-    "REFRESH_TOKEN_URL": "https://api.xeuidd.io/id?command=refreshToken&refreshToken=",
-    "SA_DOMAIN_URL":"https://api.xeuidd.io/sa"
+    "API_URL": "https://api.xeuiee.io",
+    "WS_URL": "wss://websocket.xeuiee.iowebsocket2",
+    "REFRESH_TOKEN_URL": "https://api.xeuiee.io/id?command=refreshToken&refreshToken=",
+    "SA_DOMAIN_URL":"https://api.xeuiee.io/sa"
 }
