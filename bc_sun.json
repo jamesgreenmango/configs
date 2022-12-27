@@ -1,6 +1,0 @@
-{
-    "API_URL": "https://api.swinii.io",
-    "WS_URL": "wss://websocket.swinii.io/websocket3",
-    "REFRESH_TOKEN_URL": "https://api.swinii.io/id?command=refreshToken&refreshToken=",
-    "SA_DOMAIN_URL":"https://api.swinii.io/sa"
-}

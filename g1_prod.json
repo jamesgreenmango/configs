@@ -1,5 +1,0 @@
-{
-    "API_URL": "https://api.swinii.io",
-    "MAIN_WS_URL": "wss://websocket.swinii.io/websocket2",
-    "SA_DOMAIN_URL":"https://api.swinii.io/sa"
-}
