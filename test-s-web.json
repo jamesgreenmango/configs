@@ -1,0 +1,182 @@
+{
+  "host_domain": "https://cfg.swinkk.io/",
+  "api_domain": "https://api.swinkk.io/",
+  "iFrame_domain": "https://web.sun.fun/",
+  "rs_domain": "https://resources.gwin.info/james/sun-v342/",
+  "sport_domain": "https://sport.swinkk.io/",
+  "ws_sport_domain": "wss://wssport.swinkk.io/websocket",
+  "xd_live_version": "1.0.0",
+  "tx_livestream_domain": "https://api-csn-sun.gameland.today/api/v1/",
+  "tx_livestream_video_url":"https://staticmt.net/livestream6/taixiulive.html",
+  "tx_livestream_video_url_2":"https://staticmt.net/livestream5/taixiulive.html",
+  "tx_livestream_ws_url" : "wss://ws-csn-sun.gameland.vip",
+  "xd_livestream_domain": "https://api-xd-sun.gameland.vip/api/v1/",
+  "xd_livestream_video_url":"https://staticmt.net/livestream6/xocdialive.html",
+  "xd_livestream_ws_url" : "wss://ws-xocdia-ls.swinkk.io/websocket",
+  "appName": "sunprod",
+  "brand": "sun.win",
+  "files_config": {
+    "prefab_baucua": {
+      "totalTextFileCount": 251,
+      "totalTextImageCount": 20
+    },
+    "prefab_xocdia": {
+      "totalTextFileCount": 225,
+      "totalTextImageCount": 14
+    },
+    "prefab_xocdia_tulinh": {
+      "totalTextFileCount": 332,
+      "totalTextImageCount": 24
+    },
+    "prefab_tlmn": {
+      "totalTextFileCount": 302,
+      "totalTextImageCount": 10
+    },
+    "R3979L": {
+      "totalTextFileCount": 1100,
+      "totalTextImageCount": 125
+    },
+    "R3985L": {
+      "totalTextFileCount": 964,
+      "totalTextImageCount": 190
+    },
+    "g9932L": {
+      "totalTextFileCount": 1156,
+      "totalTextImageCount": 252
+    },
+    "g9929L": {
+      "totalTextFileCount": 1713,
+      "totalTextImageCount": 379
+    },
+    "g9948P": {
+      "totalTextFileCount": 1507,
+      "totalTextImageCount": 345
+    },
+    "g9947P": {
+      "totalTextFileCount": 1217,
+      "totalTextImageCount": 170
+    },
+    "R3971L": {
+      "totalTextFileCount": 1368,
+      "totalTextImageCount": 159
+    },
+    "R3966L": {
+      "totalTextFileCount": 1129,
+      "totalTextImageCount": 184
+    },
+    "R7992L": {
+      "totalTextFileCount": 1444,
+      "totalTextImageCount": 449
+    },
+    "R3995L": {
+      "totalTextFileCount": 1813,
+      "totalTextImageCount": 183
+    },
+    "R7993L": {
+      "totalTextFileCount": 1813,
+      "totalTextImageCount": 183
+    },
+    "prefab_sam": {
+      "totalTextFileCount": 285,
+      "totalTextImageCount": 11
+    },
+    "binh": {
+      "totalTextFileCount": 540,
+      "totalTextImageCount": 63
+    },
+    "lieng": {
+      "totalTextFileCount": 541,
+      "totalTextImageCount": 62
+    },
+    "poker": {
+      "totalTextFileCount": 540,
+      "totalTextImageCount": 62
+    },
+    "xito": {
+      "totalTextFileCount": 541,
+      "totalTextImageCount": 62
+    }
+  },
+  "bundles": {
+    "lobby": {
+      "totalTextFileCount": 1809,
+      "totalTextImageCount": 183
+    },
+    "slot_naruto": {
+      "totalTextFileCount": 322,
+      "totalTextImageCount": 59
+    },
+    "cc30-sicbo-taiphu-3979": {
+      "totalTextFileCount": 1100,
+      "totalTextImageCount": 125
+    },
+    "cc30-xeng-3985": {
+      "totalTextFileCount": 964,
+      "totalTextImageCount": 190
+    },
+    "miteks": {
+      "totalTextFileCount": 964,
+      "totalTextImageCount": 190
+    },
+    "lode": {
+      "totalTextFileCount": 249,
+      "totalTextImageCount": 24
+    },
+    "slot_pvz": {
+      "totalTextFileCount": 723,
+      "totalTextImageCount": 156
+    },
+    "slot_angrybird": {
+      "totalTextFileCount": 423,
+      "totalTextImageCount": 57
+    },
+    "slot_thantai": {
+      "totalTextFileCount": 318,
+      "totalTextImageCount": 56
+    },
+"slot_thuycung": {
+      "totalTextFileCount": 417,
+      "totalTextImageCount": 84
+    },
+    "table-game": {
+      "totalTextFileCount": 214,
+      "totalTextImageCount": 29
+    },
+    "slot_mnpk": {
+      "totalTextFileCount": 301,
+      "totalTextImageCount": 11
+    },
+    "slot_man": {
+      "totalTextFileCount": 171,
+      "totalTextImageCount": 5
+    },
+    "tlmn_sam_poker": {
+      "totalTextFileCount": 680,
+      "totalTextImageCount": 219
+    },
+    "lodesieutoc": {
+      "totalTextFileCount": 259,
+      "totalTextImageCount": 27
+    },
+    "livecasino": {
+      "totalTextFileCount": 33,
+      "totalTextImageCount": 12
+    },
+    "ca": {
+      "totalTextFileCount": 1378,
+      "totalTextImageCount": 148
+    },
+    "dragonball": {
+      "totalTextFileCount": 143,
+      "totalTextImageCount": 14
+    },
+    "trenduoi": {
+      "totalTextFileCount": 311,
+      "totalTextImageCount": 27
+    },
+    "taixiulivestream": {
+      "totalTextFileCount": 413,
+      "totalTextImageCount": 26
+    }
+  }
+}
