@@ -1,6 +1,0 @@
-{
-    "API_URL": "https://api.xwin.info",
-    "WS_URL": "wss://websocket.xwin.info/websocket2",
-    "REFRESH_TOKEN_URL": "https://api.xwin.info/id?command=refreshToken&refreshToken=",
-    "SA_DOMAIN_URL":"https://api.xwin.info/sa"
-}
