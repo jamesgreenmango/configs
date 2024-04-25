@@ -11,17 +11,17 @@
   "external_games": [
     {
       "bundle": "miteks",
-      "sceneName": "cc-release-fish/cc30-fish-mib-1988/ktfAllInOne1988",
+      "scene": "cc-release-fish/cc30-fish-mib-1988/ktfAllInOne1988",
       "gameID": 1001
     },
     {
       "bundle": "miteks",
-      "sceneName": "cc-release-slot/cc30-benthuonghai-9949/g9949L",
+      "scene": "cc-release-slot/cc30-benthuonghai-9949/g9949L",
       "gameID": 409
     },
     {
       "bundle": "miteks",
-      "sceneName": "cc-release-slot/cc30-casino-royal-9950/g9950L",
+      "scene": "cc-release-slot/cc30-casino-royal-9950/g9950L",
       "gameID": 410
     }
   ]
