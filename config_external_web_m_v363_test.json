@@ -1,0 +1,28 @@
+{
+  "host_domain": "https://cfg.mangee.io/",
+  "api_domain": "https://api.mangee.io/",
+  "rs_domain": "https://rsweb.manstatic.com/",
+  "external_rs_domain": "https://rsweb.manstatic.com/",
+  "lp_domain": "https://google.com/",
+  "agency_ws_main_url": "wss://websocket.atpman.com/websocket2",
+  "sport_domain": "https://sport.mangee.io/",
+  "appName": "",
+  "brand": "",
+  "external_games": [
+    {
+      "bundle": "miteks",
+      "sceneName": "cc-release-fish/cc30-fish-mib-1988/ktfAllInOne1988",
+      "gameID": 1001
+    },
+    {
+      "bundle": "miteks",
+      "sceneName": "cc-release-slot/cc30-benthuonghai-9949/g9949L",
+      "gameID": 409
+    },
+    {
+      "bundle": "miteks",
+      "sceneName": "cc-release-slot/cc30-casino-royal-9950/g9950L",
+      "gameID": 410
+    }
+  ]
+}
