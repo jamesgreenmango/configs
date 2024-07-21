@@ -1,10 +1,3 @@
 {
-    "urlSetting": "https://gali-stg.sportb2.com/setting?agentId=",
-    "map": {
-        "team": [
-            { "i": 29660, "r": 1466 },
-            { "i": 32006, "r": 1466 },
-            { "i": 99999 }
-        ]
-    }
+    "urlSetting": "https://gali-stg.sportb2.com/setting?agentId="
 }
