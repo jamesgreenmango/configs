@@ -1,12 +1,14 @@
 {
-    "DOMAIN" : "https://api.azhkthg1.net",
-    "gemwin_lp_url": "gem.win",
-    "RESOURCE_MINI_GAME_URL" : "https://api.azhkthg1.net/images/uploads/creator/",
-    "RESOURCE_MINI_GAME_URL_APP" : "https://rs.staticmt.net/",
-    "RESOURCE_MINI_GAME_URL_WEB" : "https://staticmt.net/minigame/",
-    "RESOURCE_MINI_GAME_URL_APP_PORTRAIT" : "https://rs.staticmt.net/minigame-portrait/",
-    "RESOURCE_MINI_GAME_URL_WEB_PORTRAIT" : "https://staticmt.net/minigame_portrait/3.0.0/",
-    "WS_MINIGAME_SOCKET_URL" : "wss://websocket.azhkthg1.net/websocket",
-    "HELP_URL" : "https://rule.swinshop.net/?",
-    "BRAND" : "sun.win"
+  "DOMAIN": "https://api.azhkthg1.net",
+  "gemwin_lp_url": "gem.win",
+  "RESOURCE_MINI_GAME_URL": "https://api.azhkthg1.net/images/uploads/creator/",
+  "RESOURCE_MINI_GAME_URL_APP": "https://rs.staticmt.net/",
+  "RESOURCE_MINI_GAME_URL_WEB": "https://staticmt.net/minigame/",
+  "RESOURCE_MINI_GAME_URL_APP_PORTRAIT": "https://rs.staticmt.net/minigame-portrait/",
+  "RESOURCE_MINI_GAME_URL_WEB_PORTRAIT": "https://staticmt.net/minigame_portrait/3.0.0/",
+  "WS_MINIGAME_SOCKET_JSON_URL": "wss://websocket.azhkthg1.net/websocket",
+  "WS_MINIGAME_SOCKET_BINARY_URL": "wss://websocket.azhkthg1.net/wsbinary",
+  "HELP_URL": "https://rule.swinshop.net/?",
+  "BRAND": "sun.win",
+  "useWSJSON" : "false"
 }
