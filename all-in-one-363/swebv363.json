@@ -8,6 +8,16 @@
   "lp_domain_nhat": "https://nhatvip.vip/",
   "rs_domain": "https://staticmt.net/",
   "sport_domain": "https://sport.azhkthg1.com/",
+  "authorizationEndpoints": {
+    "sun.win": "https://login.sun.win/auth/authorize",
+    "nhat.vip": "https://login.nhatvip.vip/auth/authorize",
+    "zo.win": "https://login.zowin.tv/auth/authorize"
+  },
+  "tokenEndpoints": {
+    "sun.win": "https://login.sun.win/auth/token",
+    "nhat.vip": "https://login.nhatvip.vip/auth/token",
+    "zo.win": "https://login.zowin.tv/auth/token"
+  },
   "tx88_livestream_auth_video_url": "/internal/livestream_page/txlive88_withautoplay_04.html",
   "appName": "sunprod",
   "brand": "sun.win"
