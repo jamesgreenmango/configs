@@ -9,12 +9,12 @@
   "rs_domain": "https://staticmt.net/",
   "sport_domain": "https://sport.azhkthg1.com/",
   "authorizationEndpoints": {
-    "sun.win": "https://login.sun.win/auth/authorize",
+    "sun.win": "https://login.sunwin.us/auth/authorize",
     "nhat.vip": "https://login.nhatvip.vip/auth/authorize",
     "zo.win": "https://login.zowin.tv/auth/authorize"
   },
   "tokenEndpoints": {
-    "sun.win": "https://login.sun.win/auth/token",
+    "sun.win": "https://login.sunwin.us/auth/token",
     "nhat.vip": "https://login.nhatvip.vip/auth/token",
     "zo.win": "https://login.zowin.tv/auth/token"
   },
