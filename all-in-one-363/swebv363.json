@@ -8,15 +8,22 @@
   "lp_domain_nhat": "https://nhat.vip/",
   "rs_domain": "https://staticmt.net/",
   "sport_domain": "https://sport.azhkthg1.com/",
-  "authorizationEndpoints": {
-    "sun.win": "https://login.sunwin.us/auth/authorize",
-    "nhat.vip": "https://login.nhatvip.vip/auth/authorize",
-    "zo.win": "https://login.zowin.tv/auth/authorize"
-  },
-  "tokenEndpoints": {
-    "sun.win": "https://login.sunwin.us/auth/token",
-    "nhat.vip": "https://login.nhatvip.vip/auth/token",
-    "zo.win": "https://login.zowin.tv/auth/token"
+  "loginConfig": {
+    "sun.win": {
+      "tokenEndpoint": "https://login.sun.win/auth/token",
+      "authorizationEndpoint": "https://login.sun.win/auth/authorize",
+      "clientId": "sun.win"
+    },
+    "nhat.vip": {
+      "tokenEndpoint": "https://login.nhatvip.vip/auth/token",
+      "authorizationEndpoint": "https://login.nhatvip.vip/auth/authorize",
+      "clientId": "nhat.vip"
+    },
+    "zo.win": {
+      "tokenEndpoint": "https://login.zowin.tv/auth/token",
+      "authorizationEndpoint": "https://login.zowin.tv/auth/authorize",
+      "clientId": "zo.win"
+    }
   },
   "tx88_livestream_auth_video_url": "/internal/livestream_page/txlive88_withautoplay_04.html",
   "appName": "sunprod",
