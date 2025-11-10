@@ -1,8 +1,8 @@
 {
-  "API_URL": "https://api.man-bc.pro/v2/",
-  "SOCKET_URL": "wss://wsg01.man-bc.pro",
+  "API_URL": "https://api.man-bc.vip/v2/",
+  "SOCKET_URL": "wss://wsg01.man-bc.vip",
   "USER_TOKEN": "user_token",
-  "IPMaster8": "wss://master.man-bc.pro/",
+  "IPMaster8": "wss://master.man-bc.vip/",
   "IS_PRODUCTION": true,
   "FISH_CLIENT_TYPE": 2
 }
