@@ -15,8 +15,8 @@
       "clientId": "sun.win"
     },
     "nhat.vip": {
-      "tokenEndpoint": "https://login.nhatvip.vip/auth/token",
-      "authorizationEndpoint": "https://login.nhatvip.vip/auth/authorize",
+      "tokenEndpoint": "https://login.nhatvip.pro/auth/token",
+      "authorizationEndpoint": "https://login.nhatvip.pro/auth/authorize",
       "clientId": "nhat.vip"
     },
     "zo.win": {
