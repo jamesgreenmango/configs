@@ -10,8 +10,8 @@
   "sport_domain": "https://sport.azhkthg1.com/",
   "loginConfig": {
     "sun.win": {
-      "tokenEndpoint": "https://login.sun.win/auth/token",
-      "authorizationEndpoint": "https://login.sun.win/auth/authorize",
+      "tokenEndpoint": "https://login.sunwin.vin/auth/token",
+      "authorizationEndpoint": "https://login.sunwin.vin/auth/authorize",
       "clientId": "sun.win"
     },
     "nhat.vip": {
