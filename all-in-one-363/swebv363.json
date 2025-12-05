@@ -10,6 +10,11 @@
   "sport_domain": "https://sport.azhkthg1.com/",
   "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004e.html",
   "phising_livestream_video_url": "phising_livestream_withautoplay_213_v025e.html",
+  "tx_livestream_video_url": "internal/livestream_page/taixiulive_withautoplay_024a.html",
+  "tx_livestream_video_url_nosound": "internal/livestream_page/taixiulive_nosound_019a.html",
+  "xd_livestream_video_url": "internal/livestream_page/xocdialive_withautoplay_024a.html",
+  "xd_livestream_video_url_nosound": "internal/livestream_page/xocdialive_nosound_019a.html",
+  "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_02w.html",
   "loginConfig": {
     "sun.win": {
       "tokenEndpoint": "https://login.sunwin.vin/auth/token",
@@ -27,7 +32,6 @@
       "clientId": "zo.win"
     }
   },
-  "tx88_livestream_auth_video_url": "/internal/livestream_page/sicbolive_withautoplay_01w.html",
   "appName": "sunprod",
   "brand": "sun.win"
 }
