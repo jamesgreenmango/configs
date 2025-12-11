@@ -10,10 +10,10 @@
   "sport_domain": "https://sport.azhkthg1.com/",
   "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004f.html",
   "phising_livestream_video_url": "phising_livestream_withautoplay_213_v025j.html",
-  "tx_livestream_video_url": "internal/livestream_page/taixiulive_withautoplay_213_016k.html",
-  "tx_livestream_video_url_nosound": "internal/livestream_page/taixiulive_nosound_213_016k.html",
-  "xd_livestream_video_url": "internal/livestream_page/xocdialive_withautoplay_213_016k.html",
-  "xd_livestream_video_url_nosound": "internal/livestream_page/xocdialive_nosound_213_016k.html",
+  "tx_livestream_video_url": "internal/livestream_page/taixiulive_withautoplay_213_016l.html",
+  "tx_livestream_video_url_nosound": "internal/livestream_page/taixiulive_nosound_213_016l.html",
+  "xd_livestream_video_url": "internal/livestream_page/xocdialive_withautoplay_213_016l.html",
+  "xd_livestream_video_url_nosound": "internal/livestream_page/xocdialive_nosound_213_016l.html",
   "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_02w.html",
   "loginConfig": {
     "sun.win": {
