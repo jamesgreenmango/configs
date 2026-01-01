@@ -3,7 +3,7 @@
   "api_domain": "https://api.azhkthg1.com/",
   "phising_domain": "https://sara.eu.com/",
   "gemwin_lp_url": "gemwin.me",
-  "lp_domain": "https://sun.win",
+  "lp_domain": "https://sunwin.am",
   "lp_domain_zo": "https://zo.top",
   "lp_domain_nhat": "https://nhat.vin",
   "rs_domain": "https://staticmt.net/",
@@ -15,6 +15,24 @@
   "xd_livestream_video_url": "internal/livestream_page/xocdialive_withautoplay_213_017d.html",
   "xd_livestream_video_url_nosound": "internal/livestream_page/xocdialive_nosound_213_017d.html",
   "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_02w.html",
+  "streamUrls": {
+    "stream": {
+      "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_02w.html",
+      "bacc_livestream_video_url": "internal/livestream_page/baccarat_live_withautoplay.html",
+      "tx_livestream_video_url": "internal/livestream_page/taixiulive_withautoplay_213_017d.html",
+      "tx_livestream_video_url_nosound": "internal/livestream_page/taixiulive_nosound_213_017d.html",
+      "xd_livestream_video_url": "internal/livestream_page/xocdialive_withautoplay_213_017d.html",
+      "xd_livestream_video_url_nosound": "internal/livestream_page/xocdialive_nosound_213_017d.html",
+      "phising_livestream_video_url": "internal/livestream_page/phising_livestream_withautoplay_213_v025k.html",
+      "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004f.html"
+    },
+    "j_stream": {
+      "bacc_livestream_video_url": "internal/livestream_page/bcrlive_withautoplay_jstream_05w.html",
+      "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_jstream_05w.html",
+      "xdtt_livestream_video_url": "xdttlive_withautoplay_jstream_06w.html",
+      "phising_livestream_video_url": "internal/livestream_page/phising_livestream_jstream_06w.html"
+    }
+  },
   "c5_config": {
     "c5_sicbo_live_video_url": "internal/livestream_page/c5_sicbolive_withautoplay_17w_s.html"
   },
