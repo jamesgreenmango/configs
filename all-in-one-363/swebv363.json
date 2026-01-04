@@ -53,6 +53,7 @@
       "clientId": "zo.win"
     }
   },
+  "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "sunprod",
   "brand": "sun.win"
 }
