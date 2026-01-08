@@ -30,7 +30,11 @@
       "bacc_livestream_video_url": "internal/livestream_page/bcrlive_withautoplay_jstream_05w.html",
       "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_jstream_05w.html",
       "xdtt_livestream_video_url": "xdttlive_withautoplay_jstream_07w.html",
-      "phising_livestream_video_url": "internal/livestream_page/phising_livestream_jstream_07w.html"
+      "phising_livestream_video_url": "internal/livestream_page/phising_livestream_jstream_07w.html",
+      "tx_livestream_video_url": "internal/livestream_page/txlive_withautoplay_jstream_01w.html",
+      "tx_livestream_video_url_nosound": "internal/livestream_page/txlive_nosound_jstream_01w.html",
+      "xd_livestream_video_url": "internal/livestream_page/xdlive_withautoplay_jstream_01w.html",
+      "xd_livestream_video_url_nosound": "internal/livestream_page/xdlive_nosound_jstream_01w.html"
     }
   },
   "c5_config": {
