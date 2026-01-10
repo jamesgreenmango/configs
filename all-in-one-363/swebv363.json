@@ -5,7 +5,7 @@
   "gemwin_lp_url": "gemwin.me",
   "lp_domain": "https://sun.win",
   "lp_domain_zo": "https://zo.top",
-  "lp_domain_nhat": "https://nhat.vin",
+  "lp_domain_nhat": "https://nhat.mobi",
   "rs_domain": "https://staticmt.net/",
   "sport_domain": "https://sport.azhkthg1.com/",
   "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004f.html",
@@ -47,8 +47,8 @@
       "clientId": "sun.win"
     },
     "nhat.vip": {
-      "tokenEndpoint": "https://login.nhat.vin/auth/token",
-      "authorizationEndpoint": "https://login.nhat.vin/auth/authorize",
+      "tokenEndpoint": "https://login.nhat.mobi/auth/token",
+      "authorizationEndpoint": "https://login.nhat.mobi/auth/authorize",
       "clientId": "nhat.vip"
     },
     "zo.win": {
