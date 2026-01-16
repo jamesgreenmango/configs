@@ -47,8 +47,8 @@
       "clientId": "sun.win"
     },
     "nhat.vip": {
-      "tokenEndpoint": "https://login.nhat.mobi/auth/token",
-      "authorizationEndpoint": "https://login.nhat.mobi/auth/authorize",
+      "tokenEndpoint": "https://login.nhat.live/auth/token",
+      "authorizationEndpoint": "https://login.nhat.live/auth/authorize",
       "clientId": "nhat.vip"
     },
     "zo.win": {
