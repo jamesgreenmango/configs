@@ -2,12 +2,17 @@
   "host_domain": "https://cfg.azhkthg1.com/",
   "api_domain": "https://api.azhkthg1.com/",
   "phising_domain": "https://sara.eu.com/",
-  "gemwin_lp_url": "gemwin.top",
-  "lp_domain": "https://sunwin.sx",
-  "lp_domain_zo": "https://zowin.io/",
-  "lp_domain_nhat": "https://nhat.moi",
+  "gemwin_lp_url": "gemwin.tv",
+  "lp_domain": "https://sunwin.id",
+  "lp_domain_zo": "https://zowin.bh/",
+  "lp_domain_nhat": "https://nhat.fit",
   "rs_domain": "https://staticmt.net/",
   "sport_domain": "https://sport.azhkthg1.com/",
+  "web_domains": {
+    "sun.win": "https://web.sunwin.id/",
+    "nhat.vip": "https://play.nhat.fit/",
+    "zo.win": "https://web.zowin.bh/"
+  },
   "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004f.html",
   "phising_livestream_video_url": "phising_livestream_withautoplay_213_v025k.html",
   "tx_livestream_video_url": "internal/livestream_page/taixiulive_withautoplay_213_017d.html",
@@ -24,7 +29,8 @@
       "xd_livestream_video_url": "internal/livestream_page/xocdialive_withautoplay_213_017d.html",
       "xd_livestream_video_url_nosound": "internal/livestream_page/xocdialive_nosound_213_017d.html",
       "phising_livestream_video_url": "internal/livestream_page/phising_livestream_withautoplay_213_v025k.html",
-      "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004f.html"
+      "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004f.html",
+      "idol_livestream_video_url": "internal/livestream_page/idol_livestream_withautoplay_01w.html"
     },
     "j_stream": {
       "bacc_livestream_video_url": "internal/livestream_page/bcrlive_withautoplay_jstream_05w.html",
@@ -34,7 +40,8 @@
       "tx_livestream_video_url": "internal/livestream_page/txlive_withautoplay_jstream_01w.html",
       "tx_livestream_video_url_nosound": "internal/livestream_page/txlive_nosound_jstream_01w.html",
       "xd_livestream_video_url": "internal/livestream_page/xdlive_withautoplay_jstream_01w.html",
-      "xd_livestream_video_url_nosound": "internal/livestream_page/xdlive_nosound_jstream_01w.html"
+      "xd_livestream_video_url_nosound": "internal/livestream_page/xdlive_nosound_jstream_01w.html",
+      "idol_livestream_video_url": "internal/livestream_page/idol_livestream_jstream_01w.html"
     }
   },
   "c5_config": {
@@ -42,22 +49,549 @@
   },
   "loginConfig": {
     "sun.win": {
-      "tokenEndpoint": "https://login.sunwin.sx/auth/token",
-      "authorizationEndpoint": "https://login.sunwin.sx/auth/authorize",
+      "tokenEndpoint": "https://login.sunwin.id/auth/token",
+      "authorizationEndpoint": "https://login.sunwin.id/auth/authorize",
       "clientId": "sun.win"
     },
     "nhat.vip": {
-      "tokenEndpoint": "https://login.nhat.live/auth/token",
-      "authorizationEndpoint": "https://login.nhat.live/auth/authorize",
+      "tokenEndpoint": "https://login.nhat.fit/auth/token",
+      "authorizationEndpoint": "https://login.nhat.fit/auth/authorize",
       "clientId": "nhat.vip"
     },
     "zo.win": {
-      "tokenEndpoint": "https://login.zowin.io/auth/token",
-      "authorizationEndpoint": "https://login.zowin.io/auth/authorize",
+      "tokenEndpoint": "https://login.zowin.bh/auth/token",
+      "authorizationEndpoint": "https://login.zowin.bh/auth/authorize",
       "clientId": "zo.win"
     }
   },
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "sunprod",
-  "brand": "sun.win"
+  "brand": "sun.win",
+  "availableGames": [
+    {
+      "gameID": 400,
+      "prefabName": "data/prefabs/ico_banca",
+      "position": 0,
+      "type": 1,
+      "isEnable": true
+    },
+    {
+      "gameID": 300,
+      "prefabName": "data/prefabs/ico_sb",
+      "position": 0,
+      "type": 1,
+      "isEnable": true,
+      "isLandscape": false
+    },
+    {
+      "gameID": 506,
+      "prefabName": "data/prefabs/ico_sunphung",
+      "position": 0,
+      "type": 1,
+      "isEnable": true
+    },
+    {
+      "gameID": 313,
+      "prefabName": "data/prefabs/ico_volta",
+      "position": 0,
+      "type": 1,
+      "isEnable": true
+    },
+    {
+      "gameID": 325,
+      "prefabName": "data/prefabs/ico_volta-balance",
+      "position": 0,
+      "type": 1,
+      "isEnable": true
+    },
+    {
+      "gameID": 15,
+      "prefabName": "data/prefabs/ico_rongho",
+      "position": 0,
+      "type": 1,
+      "isEnable": true,
+      "isLandscape": false
+    },
+    {
+      "gameID": 501,
+      "prefabName": "data/prefabs/ico_superdragonball",
+      "position": 0,
+      "type": 1,
+      "isEnable": true,
+      "gameDisplayName": "Sun Rồng",
+      "isLandscape": false
+    },
+    {
+      "gameID": 407,
+      "prefabName": "data/prefabs/ico_sicbo",
+      "position": 0,
+      "type": 1,
+      "isEnable": true
+    },
+    {
+      "gameID": 317,
+      "prefabName": "data/prefabs/ico_xdtt-livestream",
+      "position": 0,
+      "type": 1,
+      "isEnable": false,
+      "isLandscape": false,
+      "typeGame": 1
+    },
+    {
+      "gameID": 100,
+      "prefabName": "data/prefabs/ico_taixiu",
+      "position": 1,
+      "type": 1,
+      "isEnable": true,
+      "typeGame": 2
+    },
+    {
+      "gameID": 14,
+      "prefabName": "data/prefabs/ico_xocdia-tulinh",
+      "position": 1,
+      "type": 1,
+      "isEnable": true
+    },
+    {
+      "gameID": 316,
+      "prefabName": "data/prefabs/ico_bacc-livestream",
+      "position": 0,
+      "type": 1,
+      "isEnable": false,
+      "isLandscape": false,
+      "typeGame": 1
+    },
+    {
+      "gameID": 311,
+      "prefabName": "data/prefabs/ico_tx88-livestream",
+      "position": 0,
+      "type": 1,
+      "isEnable": true,
+      "isLandscape": false,
+      "typeGame": 1
+    },
+    {
+      "gameID": 305,
+      "prefabName": "data/prefabs/ico_tx-livestream",
+      "position": 1,
+      "type": 1,
+      "isEnable": true,
+      "typeGame": 1
+    },
+    {
+      "gameID": 306,
+      "prefabName": "data/prefabs/ico_xd-livestream",
+      "position": 1,
+      "type": 1,
+      "isEnable": true,
+      "gameDisplayName": "Xóc Dĩa Livestream",
+      "typeGame": 1
+    },
+    {
+      "gameID": 326,
+      "prefabName": "data/prefabs/ico_sbdaga",
+      "position": 1,
+      "type": 1,
+      "isEnable": true,
+      "typeGame": 1
+    },
+    {
+      "gameID": 16,
+      "prefabName": "data/prefabs/ico_baucualocthu",
+      "position": 1,
+      "type": 1,
+      "isEnable": true,
+      "gameDisplayName": "Bầu Cua Lộc Thú"
+    },
+    {
+      "gameID": 323,
+      "prefabName": "data/prefabs/ico_c5-baucua-livestream",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 1
+    },
+    {
+      "gameID": 320,
+      "prefabName": "data/prefabs/ico_c5-rongho-livestream",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 1
+    },
+    {
+      "gameID": 324,
+      "prefabName": "data/prefabs/ico_c5-bacc-livestream",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 1
+    },
+    {
+      "gameID": 321,
+      "prefabName": "data/prefabs/ico_c5-xocdialive",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 1
+    },
+    {
+      "gameID": 322,
+      "prefabName": "data/prefabs/ico_c5-sicbo-livestream",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 1
+    },
+    {
+      "gameID": 329,
+      "prefabName": "data/prefabs/ico_c5-xocdiajackpot",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 1
+    },
+    {
+      "gameID": 328,
+      "prefabName": "data/prefabs/ico_c5-baclongbao",
+      "position": 1,
+      "type": 2,
+      "isEnable": false,
+      "typeGame": 1
+    },
+    {
+      "gameID": 327,
+      "prefabName": "data/prefabs/ico_c5-taixiujackpot",
+      "position": 1,
+      "type": 2,
+      "isEnable": false,
+      "typeGame": 1
+    },
+    {
+      "gameID": 218,
+      "prefabName": "data/prefabs/ico_slot_avenger",
+      "position": 1,
+      "type": 3,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
+      "gameID": 217,
+      "prefabName": "data/prefabs/ico_slot-haitac",
+      "position": 1,
+      "type": 3,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
+      "gameID": 205,
+      "prefabName": "data/prefabs/ico_slot_thuycung",
+      "position": 1,
+      "type": 3,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
+      "gameID": 204,
+      "prefabName": "data/prefabs/ico_slot-thantai",
+      "position": 1,
+      "type": 3,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
+      "gameID": 219,
+      "prefabName": "data/prefabs/ico_dragonball",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 2
+    },
+    {
+      "gameID": 206,
+      "prefabName": "data/prefabs/ico_caothap",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 2
+    },
+    {
+      "gameID": 202,
+      "prefabName": "data/prefabs/ico_kimcuong",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 2
+    },
+    {
+      "gameID": 199,
+      "prefabName": "data/prefabs/ico_mnpk",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 2
+    },
+    {
+      "gameID": 418,
+      "prefabName": "data/prefabs/ico_ongdo",
+      "position": 2,
+      "type": 1,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
+      "gameID": 421,
+      "prefabName": "data/prefabs/ico_natra",
+      "position": 2,
+      "type": 1,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
+      "gameID": 412,
+      "prefabName": "data/prefabs/ico_taydu",
+      "position": 2,
+      "type": 1,
+      "isEnable": true,
+      "isLandscape": false,
+      "typeGame": 3
+    },
+    {
+      "gameID": 411,
+      "prefabName": "data/prefabs/ico_tuthantu",
+      "position": 2,
+      "type": 1,
+      "isEnable": true,
+      "isLandscape": false,
+      "typeGame": 3
+    },
+    {
+      "gameID": 330,
+      "prefabName": "data/prefabs/ico_lansinhphuquy",
+      "position": 2,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
+      "gameID": 433,
+      "prefabName": "data/prefabs/ico_frankenstein",
+      "position": 2,
+      "type": 2,
+      "isEnable": true,
+      "isLandscape": false,
+      "typeGame": 3
+    },
+    {
+      "gameID": 431,
+      "prefabName": "data/prefabs/ico_santa_haudau",
+      "position": 2,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
+      "gameID": 432,
+      "prefabName": "data/prefabs/ico_momotaro",
+      "position": 2,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
+      "gameID": 415,
+      "prefabName": "data/prefabs/ico_keno",
+      "position": 3,
+      "type": 1,
+      "isEnable": true
+    },
+    {
+      "gameID": 427,
+      "prefabName": "data/prefabs/ico_roullet3d",
+      "position": 3,
+      "type": 1,
+      "isEnable": true,
+      "gameDisplayName": "Roulette"
+    },
+    {
+      "gameID": 12,
+      "prefabName": "data/prefabs/ico_baucua",
+      "position": 3,
+      "type": 1,
+      "isEnable": true,
+      "gameDisplayName": "Bầu Cua"
+    },
+    {
+      "gameID": 1,
+      "prefabName": "data/prefabs/ico_TLMN",
+      "position": 3,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 4
+    },
+    {
+      "gameID": 8,
+      "prefabName": "data/prefabs/ico_phom",
+      "position": 3,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 4
+    },
+    {
+      "gameID": 2,
+      "prefabName": "data/prefabs/ico_sam",
+      "position": 3,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 4
+    },
+    {
+      "gameID": 4,
+      "prefabName": "data/prefabs/ico_maubinh",
+      "position": 3,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 4
+    },
+    {
+      "gameID": 9,
+      "prefabName": "data/prefabs/ico_xocdia",
+      "position": 3,
+      "type": 1,
+      "isEnable": true,
+      "gameDisplayName": "Bầu Cua"
+    },
+    {
+      "gameID": 6,
+      "prefabName": "data/prefabs/ico_Poker",
+      "position": 3,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 4
+    },
+    {
+      "gameID": 5,
+      "prefabName": "data/prefabs/ico_Lieng",
+      "position": 3,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 4
+    },
+    {
+      "gameID": 13,
+      "prefabName": "data/prefabs/ico_blackjack",
+      "position": 3,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 4
+    },
+    {
+      "gameID": 7,
+      "prefabName": "data/prefabs/ico_xito",
+      "position": 3,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 4
+    },
+    {
+      "gameID": 426,
+      "prefabName": "data/prefabs/ico_poker_aof",
+      "position": 4,
+      "type": 1,
+      "isEnable": true,
+      "gameDisplayName": "Poker AOF",
+      "typeGame": 4
+    },
+    {
+      "gameID": 404,
+      "prefabName": "data/prefabs/ico_xeng",
+      "position": 4,
+      "type": 1,
+      "isEnable": true
+    },
+    {
+      "gameID": 422,
+      "prefabName": "data/prefabs/ico_node_xi",
+      "position": 4,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 4
+    },
+    {
+      "gameID": 420,
+      "prefabName": "data/prefabs/ico_node_bacc",
+      "position": 4,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 4
+    },
+    {
+      "gameID": 402,
+      "prefabName": "data/prefabs/ico_coup",
+      "position": 4,
+      "type": 2,
+      "isEnable": true,
+      "isLandscape": false
+    },
+    {
+      "gameID": 408,
+      "prefabName": "data/prefabs/ico_chan",
+      "position": 4,
+      "type": 2,
+      "isEnable": true,
+      "gameDisplayName": "Chắn"
+    },
+    {
+      "gameID": 303,
+      "prefabName": "data/prefabs/ico_lodesieutoc",
+      "position": 4,
+      "type": 1,
+      "isEnable": true,
+      "gameDisplayName": "Lô Đề Nhanh"
+    },
+    {
+      "gameID": 302,
+      "prefabName": "data/prefabs/ico_lode",
+      "position": 4,
+      "type": 1,
+      "isEnable": true
+    },
+    {
+      "gameID": 250,
+      "prefabName": "data/prefabs/ico_evo-live",
+      "position": 4,
+      "type": 2,
+      "isEnable": true,
+      "isLandscape": false,
+      "typeGame": 1
+    },
+    {
+      "gameID": 251,
+      "prefabName": "data/prefabs/ico_via-live",
+      "position": 4,
+      "type": 2,
+      "isEnable": true,
+      "isLandscape": false,
+      "typeGame": 1
+    },
+    {
+      "gameID": 252,
+      "prefabName": "data/prefabs/ico_sexy-live",
+      "position": 4,
+      "type": 2,
+      "isEnable": true,
+      "isLandscape": false,
+      "typeGame": 1
+    },
+    {
+      "gameID": 253,
+      "prefabName": "data/prefabs/ico_vivo-live",
+      "position": 4,
+      "type": 2,
+      "isEnable": true,
+      "isLandscape": false,
+      "typeGame": 1
+    }
+  ],
+  "isShowIdolStream": false
 }
